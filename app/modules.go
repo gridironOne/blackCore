@@ -48,7 +48,7 @@ import (
 	slashingtypes "github.com/persistenceOne/persistence-sdk/v2/x/lsnative/slashing/types"
 	"github.com/persistenceOne/persistence-sdk/v2/x/lsnative/staking"
 	stakingtypes "github.com/persistenceOne/persistence-sdk/v2/x/lsnative/staking/types"
-	lscosmostypes "github.com/gridironOne/pstake-native/v2/x/lscosmos/types"
+	lscosmostypes "github.com/persistenceOne/pstake-native/v2/x/lscosmos/types"
 
 	"github.com/persistenceOne/persistence-sdk/v2/x/oracle"
 	oracletypes "github.com/persistenceOne/persistence-sdk/v2/x/oracle/types"

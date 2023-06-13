@@ -68,9 +68,9 @@ import (
 	slashingtypes "github.com/persistenceOne/persistence-sdk/v2/x/lsnative/slashing/types"
 	stakingkeeper "github.com/persistenceOne/persistence-sdk/v2/x/lsnative/staking/keeper"
 	stakingtypes "github.com/persistenceOne/persistence-sdk/v2/x/lsnative/staking/types"
-	"github.com/gridironOne/pstake-native/v2/x/lscosmos"
-	lscosmoskeeper "github.com/gridironOne/pstake-native/v2/x/lscosmos/keeper"
-	lscosmostypes "github.com/gridironOne/pstake-native/v2/x/lscosmos/types"
+	"github.com/persistenceOne/pstake-native/v2/x/lscosmos"
+	lscosmoskeeper "github.com/persistenceOne/pstake-native/v2/x/lscosmos/keeper"
+	lscosmostypes "github.com/persistenceOne/pstake-native/v2/x/lscosmos/types"
 	tmos "github.com/tendermint/tendermint/libs/os"
 
 	oraclekeeper "github.com/persistenceOne/persistence-sdk/v2/x/oracle/keeper"

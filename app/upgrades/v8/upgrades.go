@@ -6,7 +6,7 @@ import (
 	upgradetypes "github.com/cosmos/cosmos-sdk/x/upgrade/types"
 	icaMigrations "github.com/cosmos/ibc-go/v6/modules/apps/27-interchain-accounts/controller/migrations/v6"
 	oracletypes "github.com/persistenceOne/persistence-sdk/v2/x/oracle/types"
-	lscosmostypes "github.com/gridironOne/pstake-native/v2/x/lscosmos/types"
+	lscosmostypes "github.com/persistenceOne/pstake-native/v2/x/lscosmos/types"
 
 	"github.com/gridironOne/blackCore/v8/app/keepers"
 	"github.com/gridironOne/blackCore/v8/app/upgrades"
