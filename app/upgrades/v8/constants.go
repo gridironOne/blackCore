@@ -3,7 +3,7 @@ package v8
 import (
 	store "github.com/cosmos/cosmos-sdk/store/types"
 	ibcfeetypes "github.com/cosmos/ibc-go/v6/modules/apps/29-fee/types"
-	oracletypes "github.com/gridironOne/black-sdk/v2/x/oracle/types"
+	oracletypes "github.com/persistenceOne/persistence-sdk/v2/x/oracle/types"
 
 	"github.com/gridironOne/blackCore/v8/app/upgrades"
 )

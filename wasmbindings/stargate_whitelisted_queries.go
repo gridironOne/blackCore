@@ -6,7 +6,7 @@ import (
 
 	wasmvmtypes "github.com/CosmWasm/wasmvm/types"
 	"github.com/cosmos/cosmos-sdk/codec"
-	"github.com/gridironOne/black-sdk/v2/x/oracle/types"
+	"github.com/persistenceOne/persistence-sdk/v2/x/oracle/types"
 )
 
 // StargateQueries is a map of stargate queries registered for the contract
